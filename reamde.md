@@ -30,3 +30,7 @@ matplotlib
          ├─ label/*.png
          └─ org/*.jpg
 ```
+
+参考
+
+https://github.com/insilicomab/semantic_segmentation_chest-Xray_Pytorch-Lightning/blob/main/Xray_pl_deeplabv3_resnet101.ipynb
